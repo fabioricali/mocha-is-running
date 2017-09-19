@@ -10,7 +10,7 @@ Very simple module that detect if process is started by Mocha. Zero dependencies
 ## Installation
 
 ```
-npm install mocha-is-running --save-dev
+npm install mocha-is-running --save
 ```
 
 ## Example
