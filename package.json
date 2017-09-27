@@ -1,6 +1,6 @@
 {
   "name": "mocha-is-running",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Very simple module that detect if process is started by Mocha. Zero dipendencies",
   "main": "index.js",
   "scripts": {
