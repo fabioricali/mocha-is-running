@@ -1,3 +1,3 @@
 module.exports = function () {
-    return Object.prototype.hasOwnProperty.call(process.env, 'LOADED_MOCHA_OPTS');
+    return typeof process !== 'undefined' && Object.prototype.hasOwnProperty.call(process.env, 'LOADED_MOCHA_OPTS');
 };
